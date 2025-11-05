@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional: Uncomment the line below if your
+# CSV files are very large (e.g., > 50MB)
+# *.csv
